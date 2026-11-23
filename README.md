@@ -1,5 +1,3 @@
-# StudyMate
-
 # 📚 StudyMate – Student Productivity App
 
 **StudyMate** is an Android application designed to help students organize their academic activities, manage study tasks, and track their daily productivity.
